@@ -7,8 +7,8 @@ Computer Engineering Student at Mugla Sitki Kosman University
 I've been learingn to code for almost 2 years
 
 * ✉️  You can contact me at [seham2862002@gmail.com](mailto:seham2862002@gmail.com)
-* 🚀  I'm currently working on [Python projects](http://github.com/U210709718/PythonProjects)
-* 🧠  I'm learning CHC Certified
+* 🚀  my recent projects : [Python projects](http://github.com/U210709718/PythonProjects)
+* 🧠  I'm currently working on CHC Certified
 * ⚡  I love the earthy smell after a rainfall!
 
 

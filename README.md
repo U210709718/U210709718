@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seham
+Hi! My name is Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Computer Engineer
+Computer Engineering Student at Mugla Sitki Kosman University
 -----------------
 
 I've been learingn to code for almost 2 years

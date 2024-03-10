@@ -4,7 +4,7 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 
 * 🚀  my recent projects : [Python projects](http://github.com/U210709718/PythonProjects)
   
-* 🧠  I'm currently working on CHC Certified
+* 🧠  I'm currently working on CHC Certified 😈🔥
   
 
 * 🛠 Skills and languages : <br/>

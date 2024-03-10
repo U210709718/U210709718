@@ -2,7 +2,7 @@ Hi! I'm Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-
 =============================================================================================================================
 
 -----------------
-Computer Engineering Student at Mugla Sitki Kosman University
+Computer Engineering Student at Mugla Sitki Kosman University <br/>
 I've been learingn to code for almost 2 years
 
 * ✉️  You can contact me throughout [seham2862002@gmail.com](mailto:seham2862002@gmail.com)

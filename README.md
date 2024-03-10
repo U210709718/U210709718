@@ -7,9 +7,8 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 * 🧠  I'm currently working on CHC Certified 😈🔥
   
 
-* 🛠 Skills and languages : <br/>
-  languages : Java , Python , C++ <br/>
-  Other skills : HTML , Linux
+* 🛠 Skills  : <br/>
+   Java , Python , C++ , HTML , Linux
 
 
 * 📫 You can reach me through out :

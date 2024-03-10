@@ -3,9 +3,9 @@ Hi! I'm Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-
 Computer Engineering Student at Mugla Sitki Kosman University <br/>
 
 * 🚀  my recent projects : [Python projects](http://github.com/U210709718/PythonProjects)
+  
 * 🧠  I'm currently working on CHC Certified
-* ⚡Fun fact :  I love the earthy smell after a rainfall!
-
+  
 
 * 🛠 Skills and languages : 
 Java , Python , HTML , Linux
@@ -15,6 +15,7 @@ Java , Python , HTML , Linux
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seham-othman-056006263/)
 
+* ⚡Fun fact :  I love the earthy smell after a rainfall!
 
 
 * <b>My GitHub Stats</b>

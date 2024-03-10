@@ -11,7 +11,7 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 Java , Python , HTML , Linux
 
 
-### 📫 Socials
+### 📫 You can reach me through out :
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seham-othman-056006263/)
 

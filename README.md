@@ -1,12 +1,11 @@
 Hi! I'm Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
-Computer Engineering Student at Mugla Sitki Kosman University
 -----------------
-
+Computer Engineering Student at Mugla Sitki Kosman University
 I've been learingn to code for almost 2 years
 
-* ✉️  You can contact me at [seham2862002@gmail.com](mailto:seham2862002@gmail.com)
+* ✉️  You can contact me throughout [seham2862002@gmail.com](mailto:seham2862002@gmail.com)
 * 🚀  my recent projects : [Python projects](http://github.com/U210709718/PythonProjects)
 * 🧠  I'm currently working on CHC Certified
 * ⚡Fun fact :  I love the earthy smell after a rainfall!

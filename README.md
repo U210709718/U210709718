@@ -7,17 +7,17 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 * ⚡Fun fact :  I love the earthy smell after a rainfall!
 
 
-### 🛠 Skills and languages : 
+* 🛠 Skills and languages : 
 Java , Python , HTML , Linux
 
 
-### 📫 You can reach me through out :
+* 📫 You can reach me through out :
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seham-othman-056006263/)
 
 
 
-### <b>My GitHub Stats</b>
+* <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/U210709718"><img src="https://github-readme-stats.vercel.app/api?username=U210709718&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="U210709718's GitHub stats" /></a>
 

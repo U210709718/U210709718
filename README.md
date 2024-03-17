@@ -8,7 +8,7 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
   
 
 * 🛠 Skills  : <br/>
-   Java , Python , HTML
+   Java , Python , HTML , Css , Java script
 
 
 * 📫 You can reach me through out :

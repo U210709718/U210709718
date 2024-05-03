@@ -9,7 +9,8 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 * 📫 You can reach me through out :
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seham-othman-056006263/)
-[Email](seham2862002@gmail.com)
+
+Email: seham2862002@gmail.com
 
 * ⚡Fun fact :  I love the earthy smell after a rainfall!
 

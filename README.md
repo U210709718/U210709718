@@ -2,7 +2,7 @@ Hi! I'm Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-
 -----------------
 Computer Engineering Student at Mugla Sitki Kosman University <br/>
 
-* 🚀  my recent projects : [To-do-alist](https://u210709718.github.io/To.Do.List.github.io/)
+<!-->*   🚀  my recent projects : <!-->
   
 * 🧠  I'm currently working on CHC Certified 😈🔥
 

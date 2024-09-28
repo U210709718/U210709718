@@ -11,10 +11,3 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 Email: seham2862002@gmail.com
 
 * ⚡Fun fact :  I love the earthy smell after a rainfall!
-
-
-* <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/U210709718"><img src="https://github-readme-stats.vercel.app/api?username=U210709718&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="U210709718's GitHub stats" /></a>
-
-

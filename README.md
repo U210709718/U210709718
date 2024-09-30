@@ -10,4 +10,4 @@ Computer Engineering Student at Mugla Sitki Kosman University <br/>
 
 Email: seham2862002@gmail.com
 
-* ⚡Fun fact :  I love the earthy smell after a rainfall!
+* ⚡Fun fact :  I love earthy smell after a rainfall!

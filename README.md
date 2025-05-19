@@ -2,7 +2,7 @@ Hi! I'm Seham  ![](https://user-images.githubusercontent.com/18350557/176309783-
 -----------------
 Computer Engineering Student at Mugla Sitki Kocman University <br/>
 
-*   🚀   I'm currently working on :  Huesday Application
+*   🚀   I'm currently working on : UI of Huesday Application
 
 * 📫 You can reach me through out :
 

@@ -6,6 +6,6 @@ Computer Engineering Student at Mugla Sitki Kocman University <br/>
 
 * 📫 You can reach me through out :
 
-Email: sehamhakim262004@gmail.com
+Email: sehamhakiim@outlook.com
 
 * ⚡Fun fact :  I love earthy smell after a rainfall!
